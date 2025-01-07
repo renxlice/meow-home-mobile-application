@@ -1,6 +1,6 @@
 # meow-home-mobile-application
 
-Mobile Application project that I successfully designed and developed, showcasing innovation, security, and user-centric functionality. This project is tailored to deliver both utility and convenience, with key features including:
+Mobile Application Flutter project that I successfully designed and developed, showcasing innovation, security, and user-centric functionality. This project is tailored to deliver both utility and convenience, with key features including:
 
 Dzikir Program: A dedicated section to perform and manage daily dzikir activities seamlessly.
 
